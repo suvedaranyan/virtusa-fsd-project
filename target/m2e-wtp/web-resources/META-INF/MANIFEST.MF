@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: nish9195
+Build-Jdk: 11.0.7
+Implementation-Title: demoApplication
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.yrrhelp
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/demoApplication
+Created-By: Maven Integration for Eclipse
+
